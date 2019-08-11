@@ -10,5 +10,3 @@ The insights that we'll be taking form this dataset is:
 2. What is the Fertility rate for the state of Bihar?
 3. Which district in Rajasthan has highest Child mortality rate?
 4. Which is the state with highest population and which is the one with the lowest population
-
-The programs written are in Java with the spark dependencies added
